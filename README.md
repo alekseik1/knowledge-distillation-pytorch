@@ -8,6 +8,7 @@
 ## Features
 * A framework for exploring "shallow" and "deep" knowledge distillation (KD) experiments
 * Hyperparameters defined by "params.json" universally (avoiding long argparser commands)
+* dkqowdkqwldkqwldqkwld
 * Hyperparameter searching and result synthesizing (as a table)
 * Progress bar, tensorboard support, and checkpoint saving/loading (utils.py)
 * Pretrained teacher models available for download 
